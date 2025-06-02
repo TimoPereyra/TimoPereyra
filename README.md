@@ -19,7 +19,7 @@ I take pride in writing clean, efficient code and continuously improving my skil
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimoPereyra&layout=compact&langs_count=7&theme=default"/></a>
 </div>
 
-<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<h2>🛠️ | Languages and Frameworks </h2>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -41,6 +41,15 @@ I take pride in writing clean, efficient code and continuously improving my skil
             <img height="25" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
         </td>
     </tr>
+      <tr>
+         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td>
+          <img height="25" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+          <img height="25" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+          <img height="25" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+        </td>
+    </tr>
+
   
 
 </table>
